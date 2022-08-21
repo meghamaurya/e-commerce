@@ -1,0 +1,37 @@
+.navbar {
+    display: flex;
+    padding: 10px;
+    background-image: linear-gradient(to right, rgb(50, 68, 95), rgb(34, 34, 30));
+}
+
+.navbar .head {
+    font-family: "Dongle", sans-serif;
+    font-weight: 900;
+    font-size: xx-large;
+    color: white;
+    margin-left: 5px;
+}
+
+.searchbar {
+    flex: 5%;
+    border-radius: 6px;
+    background-color: rgb(241, 241, 241);
+    margin: 0px 30rem;
+    padding: 5px;
+    font-size: medium;
+}
+
+.searchbar::placeholder {
+    color: black;
+    padding-left: 5px;
+}
+
+.signUp-btn {
+    border-radius: 6px;
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    margin: 0px 10px;
+    cursor: pointer;
+}
