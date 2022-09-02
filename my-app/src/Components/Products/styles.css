@@ -1,0 +1,14 @@
+
+.product-block{
+    flex-direction: row;
+    box-shadow: 1px 1px 5px;
+    padding: 20px;
+    margin: 6px;
+}
+.productList {
+    display: flex;
+    overflow: scroll;
+    margin: 20px;
+    padding-top: 20px;
+  }
+  
