@@ -5,12 +5,6 @@ import "./styles.css";
 export default function Products() {
     const [products, setProducts] = useState([]);
     useEffect(() => {
-        // getProducts().then(function (response) {
-        //     console.log(JSON.stringify(response.data));
-        // })
-        //     .catch(function (error) {
-        //         console.log(error);
-        //     });
         fetch('https://fakestoreapi.com/products')
             .then(res => res.json())
             .then(json => setProducts(json))
