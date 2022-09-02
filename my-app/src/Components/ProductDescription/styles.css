@@ -1,0 +1,23 @@
+.productItem{
+   
+    display: flex;
+    flex-direction: column;
+}
+h2{
+    font-family: 'Montserrat Subrayada', sans-serif;
+}
+.img{
+  margin: auto;
+  width: 250px;
+}
+.category{
+    text-transform: capitalize;
+    font-size: large;
+    font-weight: bold;
+}
+.description{
+    margin: 10px 15rem;
+}
+.price{
+    font-size: xx-large;
+}
