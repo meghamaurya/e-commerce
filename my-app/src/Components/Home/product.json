@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "title": "Iphone",
+      "image": "https://p-my.ipricegroup.com/uploaded_952b1848d738217c8feb3c2395712d0b.jpg",
+      "description": "something about Iphone",
+      "price": "50,000"
+    },
+    {
+      "id": 2,
+      "title": "Samsung",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjnohdEnRHuGZwmWPTBcRo_a0BBUlMq05Sjw&usqp=CAU",
+      "description": "something about Samsung",
+      "price": "30,000"
+    },
+    {
+      "id": 3,
+      "title": "Realme",
+      "image": "https://cdn1.smartprix.com/rx-iarYBNw6I-w1200-h1200/arYBNw6I.jpg",
+      "description": "something about Realme",
+      "price": "40,000"
+    },
+    {
+      "id": 4,
+      "title": "One Plus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnQibVNtLawe5oxrOUhW_ULA3ocuKcpetAZJ8wnY0X8Lk_QqXeIG45qpKZ3h4ks2KRmu4&usqp=CAU",
+      "description": "something about One Plus",
+      "price": "70,000"
+    },
+    {
+      "id": 5,
+      "title": "Nokia",
+      "image": "https://images.ctfassets.net/wcfotm6rrl7u/2uRIDMY0mMHEtKXnTHid3B/9e5dfaccc1999c4ae5a7c8bfaccf728f/nokia-XR20-ultrablue-front_back-int.png",
+      "description": "something about Nokia",
+      "price": "20,000"
+    },
+    {
+      "id": 6,
+      "title": "Vivo",
+      "image": "https://rukminim1.flixcart.com/image/312/312/l2p23rk0/mobile/s/4/3/-original-imagdznhcbdfwfud.jpeg?q=70",
+      "description": "something about vivo",
+      "price": "18,000"
+    },
+    {
+      "id": 7,
+      "title": "Motorola",
+      "image": "https://cdn1.smartprix.com/rx-iUIy3r9Ba-w1200-h1200/UIy3r9Ba.jpg",
+      "description": "something about Motorola",
+      "price": "35,000"
+    }
+  ]
+  
