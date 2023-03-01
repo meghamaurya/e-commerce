@@ -6,7 +6,7 @@ export default function ProductDescription() {
     const params = useParams();
     const { productId } = params;
     useEffect(() => {
-        fetch(`https://fakestoreapi.com/products/${productId}`)
+        fetch(`https://dummyjson.com/products/${productId}`)
             .then(res => res.json())
             .then(json => setProduct(json))
     }, [productId])
