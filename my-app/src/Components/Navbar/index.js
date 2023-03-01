@@ -10,7 +10,7 @@ export default function Navbar(props) {
     }
     return (
         <div>
-            <navbar className="navbar">
+            <Navbar className="navbar">
                 <div className="head">
                     <a>M</a>
                 </div>
@@ -40,7 +40,7 @@ export default function Navbar(props) {
                     </button>
                 )}
 
-            </navbar>
+            </Navbar>
         </div>
     );
 }
