@@ -4,7 +4,7 @@ export default function HomeProdDesc() {
     const location = useLocation();
     console.log("props", location);
     const params = useParams();
-    const prod = products.find((p) => p.id == params.id);
+    const prod = products.find((p) => p.id == params.productId);
     return (
         <div key={params.id}>
             <Link to={location.state ? location.state.from : "/"}>
